@@ -10,10 +10,10 @@ on:
           - ubuntu-latest
           - windows-latest
           - macos-latest
-          - "--- macOS XL Runners ---"
+          - "➡️ macOS XL Runners ---"
           - macos-13-xl
           # Larger runners with matching labels needs to be created in org settings
-          - "--- Larger Runners ---"
+          - "➡️ Larger Runners ---"
           - ubuntu-4-core
           - ubuntu-8-core
           - ubuntu-16-core
